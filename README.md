@@ -1,8 +1,8 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/RykerXE/RykerXE/master/wave.gif" width="30px">
 
 I am Ryker, a full stack developer currently working at [BYJUS](https://byjus.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rykerxs/)](https://www.linkedin.com/in/rykerxs/)
+[![Linkedin Badge](https://img.shields.io/badge/-rajnish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rykerxs/)](https://www.linkedin.com/in/rykerxs/)
 [![Gmail Badge](https://img.shields.io/badge/-rajnishxsn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajnishxsn@gmail.com)](mailto:rajnishxsn@gmail.com)
 
 ## ⚡ Technologies
@@ -19,7 +19,6 @@ I am Ryker, a full stack developer currently working at [BYJUS](https://byjus.co
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
