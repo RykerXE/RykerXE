@@ -14,7 +14,7 @@ I am Ryker, a full stack developer currently working at [BYJUS](https://byjus.co
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Kafka)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
