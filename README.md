@@ -12,7 +12,7 @@ I am Ryker, a full stack developer currently working at [StACK FINANCE](https://
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=redux)
+![React](https://img.shields.io/badge/-Redux-000000?style=flat-square&logo=redux)
 ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache-Kafka)
 ![Kafka](https://img.shields.io/badge/-Serverless-00000?style=flat-square&logo=Serverless)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
