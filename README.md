@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/RykerXE/RykerXE/master/wave.gif" width="30px">
 
-I am Ryker, a full stack developer currently working at [BYJUS](https://byjus.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Ryker, a full stack developer currently working at [StACK FINANCE](https://stackfinance.co/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rajnish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rykerxs/)](https://www.linkedin.com/in/rykerxs/)
 [![Gmail Badge](https://img.shields.io/badge/-rajnishxsn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajnishxsn@gmail.com)](mailto:rajnishxsn@gmail.com)
