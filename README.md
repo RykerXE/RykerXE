@@ -8,8 +8,8 @@ I am Ryker, a full stack developer currently working at [StACK FINANCE](https://
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=appveyor&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=appveyor&logo=Node.js)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E??style=for-the-badge&logo=appveyor&logo=amazon-aws)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=appveyor&logo=Node.js)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=appveyor&logo=amazon-aws)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
